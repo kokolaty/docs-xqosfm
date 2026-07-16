@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-j21mnq.pos4dadz.lat/sitemap.xml
